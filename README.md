@@ -18,16 +18,27 @@
 
 The aim of this experiment is to design and develop a responsive admin dashboard using modern web technologies. The dashboard layout is created using **CSS Grid**, which allows structured placement of the sidebar, header, and main content area in a clean and scalable manner.
 
-The user interface is built with **HTML5** for structure and **CSS3** for styling. CSS variables are used to define color schemes for both light and dark themes. A `data-theme` attribute is applied at the root level to switch between themes efficiently.
+The user interface is built using **HTML5** for page structure and **CSS3** for styling. CSS variables are defined to manage colors and themes efficiently. A `data-theme` attribute is applied at the root level to enable smooth switching between light and dark themes.
 
-Dynamic theme switching is implemented using **JavaScript**. A toggle button is provided in the dashboard header, enabling users to switch between light and dark modes. The selected theme is stored in the browser’s **localStorage**, ensuring that the preference is retained even after refreshing the page.
+Dynamic theme switching is implemented using **JavaScript**. A toggle button is provided in the dashboard header, allowing users to switch themes interactively. The selected theme is stored in the browser’s **localStorage**, ensuring persistence of user preference even after refreshing the page.
 
-Responsive design is handled using media queries, where the sidebar is hidden on smaller screens to enhance usability on mobile devices.
+Responsive design is achieved using media queries, where the sidebar automatically hides on smaller screen sizes to improve usability on mobile devices.
 
-This approach ensures a clean design, better user experience, and practical implementation of CSS Grid and dynamic theme handling.
+---
+
+## 4. Learning Outcome
+
+After completing this experiment, the following learning outcomes were achieved:
+
+- Gained practical understanding of **CSS Grid layout** for building structured and responsive web interfaces.
+- Learned to use **CSS variables** for efficient theme management.
+- Implemented **dynamic theme switching** using JavaScript and DOM manipulation.
+- Understood the use of **localStorage** to preserve user preferences.
+- Improved skills in creating **responsive web designs** using media queries.
+- Developed confidence in integrating HTML, CSS, and JavaScript for real-world UI development.
 
 ---
 
 ## Submission Note
 
-This README file represents the **written part of the last experiment** as required and is ready for submission.
+This README file represents the **details as per the format**, as mentioned in the  submission guidelines.
